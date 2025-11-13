@@ -6,4 +6,4 @@ Setup:
 2. npm run start
 3. Voila
 
-REMEMBER TO UPDATE THE .env.example file with your credentials.
+REMEMBER TO ADD THE .env file with reference from .env.example file with your credentials.
